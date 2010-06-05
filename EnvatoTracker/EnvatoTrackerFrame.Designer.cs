@@ -1,3 +1,11 @@
+/****************************************************/
+// Filename: EnvatoTrackerFrame.Designer.cs
+// Created: Chris Fay
+// Change history:
+// 5.1.2009 / Chris Fay
+// 5.5.2010 / Chris Fay (cleanup)
+/****************************************************/
+
 namespace EnvatoTracker
 {
     partial class EnvatoTrackerFrame

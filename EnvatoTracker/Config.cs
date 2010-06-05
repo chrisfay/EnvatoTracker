@@ -1,3 +1,11 @@
+/****************************************************/
+// Filename: Config.cs
+// Created: Chris Fay
+// Change history:
+// 5.1.2009 / Chris Fay
+// 5.5.2010 / Chris Fay (cleanup)
+/****************************************************/
+
 using System;
 using System.Collections.Generic;
 using System.Text;
