@@ -1,0 +1,15 @@
+obj\Debug\EnvatoTracker.exe
+obj\Debug\EnvatoTracker.pdb
+bin\Debug\EnvatoTracker.exe
+bin\Debug\EnvatoTracker.pdb
+bin\Debug\Newtonsoft.Json.dll
+bin\Debug\Newtonsoft.Json.pdb
+bin\Debug\Newtonsoft.Json.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EnvatoTracker.EnvatoTrackerFrame.resources
+obj\Debug\EnvatoTracker.Properties.Resources.resources
+obj\Debug\EnvatoTracker.csproj.GenerateResource.Cache
+bin\Debug\EnvatoTracker.exe.config
+obj\Debug\EnvatoTracker.app.ico
+obj\Debug\EnvatoTracker.coins.ico
+obj\Debug\EnvatoTracker.dollar.ico

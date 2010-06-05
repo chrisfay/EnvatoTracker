@@ -1,0 +1,12 @@
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Debug\EnvatoTracker.exe
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Debug\EnvatoTracker.pdb
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\bin\Debug\EnvatoTracker.exe
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\bin\Debug\EnvatoTracker.pdb
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\bin\Debug\Newtonsoft.Json.dll
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\bin\Debug\Newtonsoft.Json.pdb
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\bin\Debug\Newtonsoft.Json.xml
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Debug\ResolveAssemblyReference.cache
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Debug\EnvatoTracker.EnvatoTrackerFrame.resources
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Debug\EnvatoTracker.Properties.Resources.resources
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Debug\EnvatoTracker.csproj.GenerateResource.Cache
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\bin\Debug\EnvatoTracker.exe.config

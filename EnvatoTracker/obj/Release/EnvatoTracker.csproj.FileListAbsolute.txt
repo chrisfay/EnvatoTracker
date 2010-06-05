@@ -1,0 +1,11 @@
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\bin\Release\EnvatoTracker.exe
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\bin\Release\EnvatoTracker.pdb
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\bin\Release\Newtonsoft.Json.dll
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\bin\Release\Newtonsoft.Json.pdb
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\bin\Release\Newtonsoft.Json.xml
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Release\ResolveAssemblyReference.cache
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Release\EnvatoTracker.EnvatoTrackerFrame.resources
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Release\EnvatoTracker.Properties.Resources.resources
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Release\EnvatoTracker.csproj.GenerateResource.Cache
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Release\EnvatoTracker.exe
+C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Release\EnvatoTracker.pdb
