@@ -15,7 +15,7 @@ AppUpdatesURL=http://chrisfayconsulting.com
 DefaultDirName={pf}\EnvatoTracker
 DefaultGroupName=EnvatoTracker
 AllowNoIcons=yes
-OutputDir=D:\CodingProjects\EnvatoTracker\setup
+OutputDir=X:\EnvatoTracker\setup
 OutputBaseFilename=EnvatoTracker_Setup
 Compression=lzma
 SolidCompression=yes
@@ -28,11 +28,11 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 Name: "quicklaunchicon"; Description: "{cm:CreateQuickLaunchIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "D:\CodingProjects\EnvatoTracker\EnvatoTracker\bin\Debug\EnvatoTracker.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\CodingProjects\EnvatoTracker\EnvatoTracker\bin\Debug\config.ini"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\CodingProjects\EnvatoTracker\EnvatoTracker\bin\Debug\Newtonsoft.Json.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\CodingProjects\EnvatoTracker\EnvatoTracker\bin\Debug\Newtonsoft.Json.xml"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\CodingProjects\EnvatoTracker\EnvatoTracker\bin\Debug\MONEY95.WAV"; DestDir: "{app}"; Flags: ignoreversion
+Source: "X:\EnvatoTracker\EnvatoTracker\bin\Debug\EnvatoTracker.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "X:\EnvatoTracker\EnvatoTracker\bin\Debug\config.ini"; DestDir: "{app}"; Flags: ignoreversion
+Source: "X:\EnvatoTracker\EnvatoTracker\bin\Debug\Newtonsoft.Json.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "X:\EnvatoTracker\EnvatoTracker\bin\Debug\Newtonsoft.Json.xml"; DestDir: "{app}"; Flags: ignoreversion
+Source: "X:\EnvatoTracker\EnvatoTracker\bin\Debug\MONEY95.WAV"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]

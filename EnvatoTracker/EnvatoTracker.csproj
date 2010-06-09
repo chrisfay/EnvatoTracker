@@ -16,7 +16,7 @@
     </UpgradeBackupLocation>
     <OldToolsVersion>2.0</OldToolsVersion>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
-    <ApplicationIcon>app.ico</ApplicationIcon>
+    <ApplicationIcon>32x32.ico</ApplicationIcon>
     <ApplicationRevision>0</ApplicationRevision>
     <UseApplicationTrust>false</UseApplicationTrust>
     <TargetFrameworkSubset>
@@ -114,6 +114,9 @@
     <EmbeddedResource Include="coins.ico" />
     <EmbeddedResource Include="dollar.ico" />
     <None Include="Resources\49.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="32x32.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -62,10 +62,10 @@ namespace EnvatoTracker
             this.notifyIcon = new System.Windows.Forms.NotifyIcon(this.components);
             this.trayIconContextMenu = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.restoreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.schedulerWorker = new System.ComponentModel.BackgroundWorker();
             this.viewSalesPortfolioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.schedulerWorker = new System.ComponentModel.BackgroundWorker();
             this.mainPanel.SuspendLayout();
             this.tabPanel.SuspendLayout();
             this.userTab.SuspendLayout();
@@ -284,7 +284,7 @@ namespace EnvatoTracker
             // appStatusValue
             // 
             this.appStatusValue.Name = "appStatusValue";
-            this.appStatusValue.Size = new System.Drawing.Size(74, 17);
+            this.appStatusValue.Size = new System.Drawing.Size(86, 17);
             this.appStatusValue.Text = "Not polling api";
             // 
             // notifyIcon
@@ -316,6 +316,19 @@ namespace EnvatoTracker
             this.restoreToolStripMenuItem.Text = "Restore App";
             this.restoreToolStripMenuItem.Click += new System.EventHandler(this.restoreToolStripMenuItem_Click);
             // 
+            // viewSalesPortfolioToolStripMenuItem
+            // 
+            this.viewSalesPortfolioToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("viewSalesPortfolioToolStripMenuItem.Image")));
+            this.viewSalesPortfolioToolStripMenuItem.Name = "viewSalesPortfolioToolStripMenuItem";
+            this.viewSalesPortfolioToolStripMenuItem.Size = new System.Drawing.Size(179, 22);
+            this.viewSalesPortfolioToolStripMenuItem.Text = "View Sales/Portfolio";
+            this.viewSalesPortfolioToolStripMenuItem.Click += new System.EventHandler(this.viewSalesPortfolioToolStripMenuItem_Click);
+            // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(176, 6);
+            // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("exitToolStripMenuItem.Image")));
@@ -329,19 +342,6 @@ namespace EnvatoTracker
             this.schedulerWorker.WorkerSupportsCancellation = true;
             this.schedulerWorker.DoWork += new System.ComponentModel.DoWorkEventHandler(this.schedulerWorker_DoWork);
             this.schedulerWorker.RunWorkerCompleted += new System.ComponentModel.RunWorkerCompletedEventHandler(this.schedulerWorker_RunWorkerCompleted);
-            // 
-            // viewSalesPortfolioToolStripMenuItem
-            // 
-            this.viewSalesPortfolioToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("viewSalesPortfolioToolStripMenuItem.Image")));
-            this.viewSalesPortfolioToolStripMenuItem.Name = "viewSalesPortfolioToolStripMenuItem";
-            this.viewSalesPortfolioToolStripMenuItem.Size = new System.Drawing.Size(179, 22);
-            this.viewSalesPortfolioToolStripMenuItem.Text = "View Sales/Portfolio";
-            this.viewSalesPortfolioToolStripMenuItem.Click += new System.EventHandler(this.viewSalesPortfolioToolStripMenuItem_Click);
-            // 
-            // toolStripSeparator1
-            // 
-            this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(176, 6);
             // 
             // EnvatoTrackerFrame
             // 
