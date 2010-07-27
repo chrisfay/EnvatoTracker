@@ -26,7 +26,7 @@ namespace EnvatoTracker
                 return 0;
 
             WebClient client = new WebClient();
-            string urlFormat = "http://marketplace.envato.com/api/v1/user:" + username + ",user.json";
+            string urlFormat = "http://marketplace.envato.com/api/edge/user:" + username + ",user.json";
             Uri url = new Uri(string.Format(urlFormat));
             string data = client.DownloadString(url);
             int totalSales = 0;
