@@ -7,7 +7,7 @@
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{B2B08A97-48F4-40CE-94A5-C0FCE224A1B4}
 AppName=EnvatoTracker
-AppVerName=EnvatoTracker V0.5.0.0
+AppVerName=EnvatoTracker V0.5.2.0
 AppPublisher=Chris Fay Consulting, LLC
 AppPublisherURL=http://chrisfayconsulting.com
 AppSupportURL=http://chrisfayconsulting.com
