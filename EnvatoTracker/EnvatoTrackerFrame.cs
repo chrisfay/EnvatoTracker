@@ -92,7 +92,7 @@ namespace EnvatoTracker
                 //api            
                 if (user.hasNewSales(username))
                 {
-                    notifyIcon.ShowBalloonTip(18000000, "New Themeforest sales!", "You have received new sales since last time!\nAccount Balance:" + accountBalance, ToolTipIcon.None);
+                    notifyIcon.ShowBalloonTip(18000000, "New sales!", "You have received new sales since last time!\nAccount Balance:" + accountBalance, ToolTipIcon.None);
 
                     //update the sales total in sales.txt
                     user.setSalesTotal(totalSales);                                        
@@ -267,7 +267,7 @@ namespace EnvatoTracker
                         {
                             case 2:
                                 //popup only
-                                notifyIcon.ShowBalloonTip(18000000, "New Themeforest sales!", "You have " + salesChange + " new sale(s)!\nAccount Balance:" + accountBalance, ToolTipIcon.None);
+                                notifyIcon.ShowBalloonTip(18000000, "New sales!", "You have " + salesChange + " new sale(s)!\nAccount Balance:" + accountBalance, ToolTipIcon.None);
                                 break;
                             case 1:
                                 //email only
@@ -278,11 +278,11 @@ namespace EnvatoTracker
                                 //popup and email                            
                                 if (!notify.sendEmailNotify(salesChange, ref notifyIcon))
                                     notifyIcon.ShowBalloonTip(18000000, "EnvatoTracker Error", "Failed to send email with new sales - verify your email config", ToolTipIcon.None);
-                                notifyIcon.ShowBalloonTip(18000000, "New Themeforest sales!", "You have " + salesChange + " new sale(s)!", ToolTipIcon.None);
+                                notifyIcon.ShowBalloonTip(18000000, "New sales!", "You have " + salesChange + " new sale(s)!", ToolTipIcon.None);
                                 break;
                             default:
                                 //default is just a popup
-                                notifyIcon.ShowBalloonTip(18000000, "New Themeforest sales!", "You have " + salesChange + " new sale(s)!\nAccount Balance:" + accountBalance, ToolTipIcon.None);
+                                notifyIcon.ShowBalloonTip(18000000, "New sales!", "You have " + salesChange + " new sale(s)!\nAccount Balance:" + accountBalance, ToolTipIcon.None);
                                 break;
                         }
 
