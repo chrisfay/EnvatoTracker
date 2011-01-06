@@ -7,7 +7,7 @@
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{B2B08A97-48F4-40CE-94A5-C0FCE224A1B4}
 AppName=EnvatoTracker
-AppVerName=EnvatoTracker V0.5.2.0
+AppVerName=EnvatoTracker V0.5.3.0
 AppPublisher=Chris Fay Consulting, LLC
 AppPublisherURL=http://chrisfayconsulting.com
 AppSupportURL=http://chrisfayconsulting.com
@@ -15,7 +15,7 @@ AppUpdatesURL=http://chrisfayconsulting.com
 DefaultDirName={pf}\EnvatoTracker
 DefaultGroupName=EnvatoTracker
 AllowNoIcons=yes
-OutputDir=X:\EnvatoTracker\setup
+OutputDir=C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\setup
 OutputBaseFilename=EnvatoTracker_Setup
 Compression=lzma
 SolidCompression=yes
@@ -28,11 +28,11 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 Name: "quicklaunchicon"; Description: "{cm:CreateQuickLaunchIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "X:\EnvatoTracker\EnvatoTracker\bin\Debug\EnvatoTracker.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "X:\EnvatoTracker\EnvatoTracker\bin\Debug\config.ini"; DestDir: "{app}"; Flags: ignoreversion
-Source: "X:\EnvatoTracker\EnvatoTracker\bin\Debug\Newtonsoft.Json.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "X:\EnvatoTracker\EnvatoTracker\bin\Debug\Newtonsoft.Json.xml"; DestDir: "{app}"; Flags: ignoreversion
-Source: "X:\EnvatoTracker\EnvatoTracker\bin\Debug\MONEY95.WAV"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\bin\Debug\EnvatoTracker.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\bin\Debug\config.ini"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\bin\Debug\Newtonsoft.Json.dll"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\bin\Debug\Newtonsoft.Json.xml"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\bin\Debug\MONEY95.WAV"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
