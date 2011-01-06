@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvatoTracker", "EnvatoTracker.csproj", "{AE567475-8C5F-4757-B31C-0F8FEEC43948}"
 EndProject
 Global

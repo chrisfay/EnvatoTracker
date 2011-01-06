@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EnvatoTracker">
+</Property><Property Name="Solution File" Value="C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\EnvatoTracker.sln">
+</Property><Property Name="User Options File" Value="C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\EnvatoTracker.suo">
+</Property><Property Name="Date" Value="Thursday, January 06, 2011">
+</Property><Property Name="Time" Value="13:20 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EnvatoTracker.sln" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\EnvatoTracker.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EnvatoTracker.suo" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\EnvatoTracker.suo">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="EnvatoTracker.csproj" Description="Project file successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\EnvatoTracker.csproj">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="EnvatoTracker.csproj.user" Description="Project user file successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\EnvatoTracker.csproj.user">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="Config.cs" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\Config.cs">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="Email.cs" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\Email.cs">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="EnvatoAPI.cs" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\EnvatoAPI.cs">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="EnvatoTrackerFrame.cs" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\EnvatoTrackerFrame.cs">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="EnvatoTrackerFrame.Designer.cs" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\EnvatoTrackerFrame.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="Notify.cs" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\Notify.cs">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="Program.cs" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="User.cs" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\User.cs">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="app.config" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="Resources\49.ico" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\Resources\49.ico">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="32x32.ico" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\32x32.ico">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="EnvatoTrackerFrame.resx" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\EnvatoTrackerFrame.resx">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="app.ico" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\app.ico">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="coins.ico" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\coins.ico">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="dollar.ico" Description="File successfully backed up as C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\Backup\dollar.ico">
+</Event><Event ErrorLevel="1" Project="EnvatoTracker" Source="EnvatoTracker.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="EnvatoTracker.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EnvatoTracker" Source="EnvatoTracker.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EnvatoTracker.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EnvatoTracker.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnvatoTracker" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="EnvatoTracker" Source="app.config" Description="Converted">
+</Event></UpgradeLog>

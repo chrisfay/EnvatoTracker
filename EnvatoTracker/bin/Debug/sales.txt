@@ -1,1 +1,1 @@
-TotalSales:30
+TotalSales:1556

@@ -10,3 +10,16 @@ C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Debug\EnvatoTrack
 C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Debug\EnvatoTracker.Properties.Resources.resources
 C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\obj\Debug\EnvatoTracker.csproj.GenerateResource.Cache
 C:\CodingProjects\Repositories\EnvatoTracker\EnvatoTracker\bin\Debug\EnvatoTracker.exe.config
+C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\bin\Debug\EnvatoTracker.exe.config
+C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\obj\Debug\EnvatoTracker.exe
+C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\obj\Debug\EnvatoTracker.pdb
+C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\bin\Debug\EnvatoTracker.exe
+C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\bin\Debug\EnvatoTracker.pdb
+C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\obj\Debug\EnvatoTracker.EnvatoTrackerFrame.resources
+C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\obj\Debug\EnvatoTracker.Properties.Resources.resources
+C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\chris_fay\Documents\CodingProjects\chrisfay-EnvatoTracker-13e6766\EnvatoTracker\obj\Debug\GenerateResource-ResGen.write.1.tlog
